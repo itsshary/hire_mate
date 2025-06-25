@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "626296179146",
+    "project_id": "hiremate-4fe98",
+    "storage_bucket": "hiremate-4fe98.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626296179146:android:f5e2246cee5b5802b8e733",
+        "android_client_info": {
+          "package_name": "com.example.hire_mate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfYQArAjLf2-SA6NuuilQcw954onA3_wk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
