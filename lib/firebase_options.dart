@@ -47,29 +47,28 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBfYQArAjLf2-SA6NuuilQcw954onA3_wk',
-    appId: '1:626296179146:android:f5e2246cee5b5802b8e733',
-    messagingSenderId: '626296179146',
-    projectId: 'hiremate-4fe98',
-    storageBucket: 'hiremate-4fe98.firebasestorage.app',
+    apiKey: ' ',
+    appId: ' ',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCT7aelbHFINToBjdcsKz5U208y1ND44O8',
-    appId: '1:626296179146:web:11028ea9ed1ab765b8e733',
-    messagingSenderId: '626296179146',
-    projectId: 'hiremate-4fe98',
-    authDomain: 'hiremate-4fe98.firebaseapp.com',
-    storageBucket: 'hiremate-4fe98.firebasestorage.app',
+    apiKey: '',
+    appId: ' ',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCT7aelbHFINToBjdcsKz5U208y1ND44O8',
-    appId: '1:626296179146:web:11028ea9ed1ab765b8e733',
-    messagingSenderId: '626296179146',
-    projectId: 'hiremate-4fe98',
-    authDomain: 'hiremate-4fe98.firebaseapp.com',
-    storageBucket: 'hiremate-4fe98.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
-
 }
